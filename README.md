@@ -1,6 +1,8 @@
 # draft - refactored libre dollop 
 update the current depths and combine the interesting developments.. refactored-dollop; the only thing that is now necessary is types around how commands are sub translated. FOr the moment it just will do the initial stuff.. 
 
+This project too is gonna be one file probably !! hahah I forget how much I used to love working on one file for ages, never running it and then it works.. 
+
 # deps
 I have bits of 3 projects in mind vector original stuff, a recent project i noticed that did it well, the line stuff somebody did recently.. and the previous arch.. 
 
