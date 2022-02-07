@@ -15,4 +15,4 @@ I have bits of 3 projects in mind vector original stuff, a recent project i noti
 6. job done , this one is out of the way and I can get back to something else
 
 # regl
-1. he might have used regl.. I might just take abit of that code, and do my thing to it.. since well its boring just using other people stuff.. lets make it harder to read! and all crazy wherever possible....
+1. he might have used regl.. I might just take abit of that code, and do my thing to it.. since well its boring just using other people stuff.. lets make it harder to read! and all crazy wherever possible.... working on graphics is a lot of fun since everything is different.. You can worry about micro optimisation and write really horrible looking code.. so much fun!
