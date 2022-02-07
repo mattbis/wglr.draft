@@ -13,3 +13,6 @@ I have bits of 3 projects in mind vector original stuff, a recent project i noti
 4. extract whats needed
 5. combine with teh original version + the extender
 6. job done , this one is out of the way and I can get back to something else
+
+# regl
+1. he might have used regl.. I might just take abit of that code, and do my thing to it.. since well its boring just using other people stuff.. lets make it harder to read! and all crazy wherever possible....
