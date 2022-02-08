@@ -7,6 +7,7 @@ This project too is gonna be one file probably !! hahah I forget how much I used
 I have bits of 3 projects in mind vector original stuff, a recent project i noticed that did it well, the line stuff somebody did recently.. and the previous arch.. 
 
 # todo
+0. for the msmeo tool we can use teh same github actions infrastructure, and this is like a testbed, for a tool ( where I have to be more careful )
 1. are the deps kinda okay to use, without including too much
 2. if not should they be static deps ( most likely - the release cycle for the project is very very very slow ) so its gonna be a build include
 3. i actually found the best version that wasnt the extreme - rewrite too much version
