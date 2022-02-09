@@ -1,5 +1,9 @@
 # draft - refactored libre dollop 
+#### no order here, thinking out aloud 
+
 update the current depths and combine the interesting developments.. refactored-dollop; the only thing that is now necessary is types around how commands are sub translated. FOr the moment it just will do the initial stuff.. 
+
+writing a parser and lexer or a translator that has adapters is an intersting thought... and maybe a typescript only part....
 
 This project too is gonna be one file probably !! hahah I forget how much I used to love working on one file for ages, never running it and then it works.. 
 
