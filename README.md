@@ -21,3 +21,5 @@ I have bits of 3 projects in mind vector original stuff, a recent project i noti
 
 # regl
 1. he might have used regl.. I might just take abit of that code, and do my thing to it.. since well its boring just using other people stuff.. lets make it harder to read! and all crazy wherever possible.... working on graphics is a lot of fun since everything is different.. You can worry about micro optimisation and write really horrible looking code.. so much fun!
+
+for example I used to have an old idea about abusing switches... we can combine some of this. with the latest stuff... as the engines get better, but some language hacks are possible
