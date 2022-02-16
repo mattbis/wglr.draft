@@ -19,9 +19,4 @@ I have bits of 3 projects in mind vector original stuff, a recent project i noti
 5. combine with teh original version + the extender
 6. job done , this one is out of the way and I can get back to something else
 
-# regl
-1. he might have used regl.. I might just take abit of that code, and do my thing to it.. since well its boring just using other people stuff.. lets make it harder to read! and all crazy wherever possible.... working on graphics is a lot of fun since everything is different.. You can worry about micro optimisation and write really horrible looking code.. so much fun! Also in more serious tone: we probably dont need quite a bit of it.. since this is just a static versioned dep
-
-for example I used to have an old idea about abusing switches... we can combine some of this. with the latest stuff... as the engines get better, but some language hacks are possible, the only problem is the code has to run on pretty much any browser, so maybe have to use a lot of hte old hacks
-
-the reason for this is that they use it in classes and libre stuff can be ancient... or well basically air gapped... so you want one stable good release... however only in the extreme.. I suppose perhaps its webkit only... but could have renderers... using canvas
+# originally i was thinking one class that contains everything and you cna mod the class to get a debug version
