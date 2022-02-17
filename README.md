@@ -19,5 +19,5 @@ I have bits of 3 projects in mind vector original stuff, a recent project i noti
 5. combine with teh original version + the extender
 6. job done , this one is out of the way and I can get back to something else
 
-#### originally i was thinking one class that contains everything and you cna mod the class to get a debug version or use it to preache structures
+#### originally i was thinking one class that contains everything and you cna mod the class to get a debug version or use it to precache structures
 ##### now i think it will be just whats needed with a few experimental flagged features
